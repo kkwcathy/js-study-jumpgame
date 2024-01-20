@@ -3,5 +3,7 @@ body {
 }
 
 #board {
-    background-color: hotpink;
+    /* background-color: hotpink; */
+
+    background-image: url("./jumpbg.png");
 }
